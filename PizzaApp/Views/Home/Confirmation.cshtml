@@ -1,0 +1,12 @@
+﻿@model PizzaApp.Controllers.PizzaOrder
+
+<div>
+    <p>@Html.DisplayFor(x => x.PhoneNumber)</p>
+    
+    @{
+        foreach (var i in Model.Toppings)
+        {
+            <p>@i</p>
+        }
+    }
+</div>

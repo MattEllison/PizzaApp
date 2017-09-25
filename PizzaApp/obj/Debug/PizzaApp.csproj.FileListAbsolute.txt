@@ -1,0 +1,201 @@
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\PizzaApp.dll.config
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\PizzaApp.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\PizzaApp.pdb
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\WebGrease.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\PizzaApp.csprojResolveAssemblyReference.cache
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\PizzaApp.dll
+c:\users\mellison\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\PizzaApp.pdb
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\ApplicationInsights.config
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\csc.exe
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\csc.exe.config
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\csc.rsp
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\csi.exe
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\csi.rsp
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\System.AppContext.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\vbc.exe
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\vbc.exe.config
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\vbc.rsp
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\PizzaApp.dll.config
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\PizzaApp.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\PizzaApp.pdb
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Antlr3.Runtime.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.Web.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Newtonsoft.Json.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Helpers.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Mvc.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Optimization.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Razor.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.WebPages.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\WebGrease.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Helpers.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Mvc.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Optimization.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.Razor.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.WebPages.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Antlr3.Runtime.pdb
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Newtonsoft.Json.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Microsoft.AI.Web.xml
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.dll
+C:\Users\mellison\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\ApplicationInsights.config
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\csc.exe
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\csc.exe.config
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\csc.rsp
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\csi.exe
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\csi.rsp
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\System.AppContext.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\System.Collections.Immutable.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\System.IO.FileSystem.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\vbc.exe
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\vbc.exe.config
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\vbc.rsp
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\VBCSCompiler.exe
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\roslyn\VBCSCompiler.exe.config
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\PizzaApp.dll.config
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\PizzaApp.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\PizzaApp.pdb
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Antlr3.Runtime.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.Web.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.WindowsServer.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.ApplicationInsights.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Newtonsoft.Json.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Helpers.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Mvc.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Optimization.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Razor.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.WebPages.Deployment.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.WebPages.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.WebPages.Razor.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\WebGrease.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Helpers.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Mvc.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Optimization.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.Razor.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.WebPages.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.WebPages.Deployment.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\System.Web.WebPages.Razor.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Antlr3.Runtime.pdb
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Newtonsoft.Json.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.ApplicationInsights.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.WindowsServer.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\bin\Microsoft.AI.Web.xml
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csprojResolveAssemblyReference.cache
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\obj\Debug\PizzaApp.dll
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb
+C:\TFS\Demos\Trunk\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.CoreCompileInputs.cache
